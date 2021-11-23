@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(199, 217, 218);
+}
+
+.page-wrapper {
+    padding: 2% 5%;
+    display: grid;
+
+}
+
+.title {
+    font-family: "Helvetica";
+}

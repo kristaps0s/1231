@@ -1,0 +1,9 @@
+POST http://localhost:5000/posts/new HTTP/1.1
+content-type: application/json
+
+{
+    "title": "EXAMPLE TITLE",
+    "content": "LOREM IPOSUM",
+    "image": "https://steamuserimages-a.akamaihd.net/ugc/924802058717094712/ACC7BE614DDB7472BB466F8E53FF75368C3C6E7F/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "author": "example user"
+}
